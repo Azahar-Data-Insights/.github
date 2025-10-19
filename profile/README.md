@@ -98,7 +98,7 @@ We believe in reproducible science and open access to knowledge. Our repositorie
 
 ## 📫 Connect With Us
 
-- 🌐 **Website:** [azahardata.es](https://azahardata.es)
+- 🌐 **Website:** [azahardata.com](https://azahardata.com)
 - 📧 **Email:** info@azahardata.com
 - 💼 **LinkedIn:** [Azahar Data Insights](https://www.linkedin.com/company/azahar-data-insights)
 - 📍 **Location:** Alicante, Spain (Remote-first)
@@ -194,7 +194,7 @@ Creemos en la ciencia reproducible y el acceso abierto al conocimiento. Nuestros
 
 ## 📫 Conecta con Nosotros
 
-- 🌐 **Website:** [azahardata.es](https://azahardata.es)
+- 🌐 **Website:** [azahardata.com](https://azahardata.com)
 - 📧 **Email:** info@azahardata.com
 - 💼 **LinkedIn:** [Azahar Data Insights](https://www.linkedin.com/company/azahar-data-insights)
 - 📍 **Ubicación:** Alicante, España (Trabajo remoto)
